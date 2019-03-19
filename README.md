@@ -1,5 +1,19 @@
 # 使用手册
 
+### 说明
+
+自用Quantumult_Filter规则，删除了原项目lhie1/Rules中的去广告规则，并且将Quantumult_Extra规则合并到Quantumult_Filter
+
+### Remote Files
+
+````
+Quantumult_Filter：https://raw.githubusercontent.com/lcysyx/Rules/master/Quantumult/Quantumult.conf
+````
+
+以下部分为原项目lhie1/Rules的使用手册
+
+---
+
 ### 简介
 
 本项目最早是 Fork [scomper/surge.conf](https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8) 定制修改而来。
